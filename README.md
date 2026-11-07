@@ -8,7 +8,8 @@
 
 <p align="center">
   <img
-    src="./assets/cosmic-wave-divider.gif"
+    src="./assets/Neon Cosmic Wave Montage.gif"
+
     width="100%"
     alt="Animated Neon Cosmic Wave Divider"
   />
