@@ -1,10 +1,7 @@
-
-<div align="center">
-  <a href="https://angeljaiswalcg-web.github.io/thumbnail-bg/">
-    <img
-      src="wave-bg.gif"
-      width="100%"
-      alt="My Animated GitHub Banner"
-    />
-  </a>
-</div>
+<p align="center">
+  <img
+    src="./assets/angel-github-animated-banner.gif"
+    width="100%"
+    alt="Angel Jaiswal Animated Banner"
+  />
+</p>
