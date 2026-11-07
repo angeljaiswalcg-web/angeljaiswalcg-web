@@ -5,7 +5,15 @@
     alt="Angel Jaiswal Animated Banner"
   />
 </p>
----
+```html
+<p align="center">
+  <img
+    src="./assets/cosmic-wave-divider.gif"
+    width="100%"
+    alt="Animated Neon Cosmic Wave Divider"
+  />
+</p>
+```
 
 ## ✨ About Me
 
