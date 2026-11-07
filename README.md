@@ -15,7 +15,7 @@ Your introduction goes here.
 
 <p align="center">
   <img
-    src="./assets/Neon%20Cosmic%20Wave%20Montage%281%29%282%29.gif"
+    src="./assets/Neon Cosmic Montage(1).gif"
     width="100%"
     alt="Animated Neon Cosmic Wave Divider"
   />
