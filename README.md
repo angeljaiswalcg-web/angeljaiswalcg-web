@@ -14,7 +14,11 @@ Your introduction goes here.
 <!-- Animated divider -->
 
 <p align="center">
-  <img src="./assets/Neon-cosmic-wave-divider.gif" width="100%" />
+  <img
+    src="./assets/Neon%20Cosmic%20Wave%20Montage%281%29%282%29.gif"
+    width="100%"
+    alt="Animated Neon Cosmic Wave Divider"
+  />
 </p>
 
 ## ✨ About Me
