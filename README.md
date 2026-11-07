@@ -6,14 +6,37 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="./assets/Neon Cosmic Wave Montage.gif"
+<!-- Your animated banner -->
 
-    width="100%"
-    alt="Animated Neon Cosmic Wave Divider"
-  />
+<p align="center">
+  <img src="./assets/angel-github-animated-banner.gif" width="100%" />
 </p>
+
+<!-- About section -->
+
+## About Me
+
+Your introduction goes here.
+
+<!-- Animated divider -->
+
+<p align="center">
+  <img src="./assets/neon-cosmic-wave-divider.gif" width="100%" />
+</p>
+
+<!-- Skills section -->
+
+## Tech Stack
+
+Your technology badges go here.
+
+<!-- Animated divider -->
+
+<p align="center">
+  <img src="./assets/neon-cosmic-wave-divider.gif" width="100%" />
+</p>
+
+## Projects
 
 
 ## ✨ About Me
