@@ -39,24 +39,29 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 
 <div align="center">
 
+
+<!-- GITHUB ANALYTICS -->
+
+<div align="center">
+
 ## 📊 `~/github-analytics`
 
 <i>A little look at my coding journey.</i>
 
 <br><br>
 
-<!-- GitHub Stats Card -->
+<!-- GitHub Stats -->
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=angeljaiswalcg-web&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0718&title_color=C4B5FD&icon_color=5EEAD4&text_color=E9D5FF&rank_icon=github"
+  src="https://github-stats-extended.vercel.app/api?username=angeljaiswalcg-web&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0718&title_color=C4B5FD&icon_color=5EEAD4&text_color=E9D5FF&rank_icon=github"
   height="180"
   alt="Angel's GitHub Statistics"
 />
 
-<!-- Top Languages Card -->
+<!-- Top Languages -->
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0718&title_color=C4B5FD&text_color=E9D5FF"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0718&title_color=C4B5FD&text_color=E9D5FF"
   height="180"
   alt="Angel's Most Used Languages"
 />
@@ -64,6 +69,8 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 </div>
 
 ---
+
+
 
 
 
