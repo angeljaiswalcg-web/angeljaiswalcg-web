@@ -60,7 +60,7 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 <!-- 02. CONTRIBUTION STREAK - CENTERED 80% -->
 <div align="center">
 <a href="https://github.com/angeljaiswalcg-web">
-<img src="https://streak-stats.demolab.com?user=angeljaiswalcg-web&background=10091D&border=C084FC&stroke=A855F7&ring=C084FC&fire=E9D5FF&currStreakNum=FFFFFF&sideNums=D8B4FE&currStreakLabel=E9D5FF&sideLabels=C084FC&dates=A78BFA&hide_border=false" width="80%" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=angeljaiswalcg-web&background=10091D&border=C084FC&stroke=A855F7&ring=C084FC&fire=E9D5FF&currStreakNum=FFFFFF&sideNums=D8B4FE&currStreakLabel=E9D5FF&sideLabels=C084FC&dates=A78BFA&hide_border=false" width="60%" alt="GitHub Contribution Streak"/>
 </a>
 </div>
 
