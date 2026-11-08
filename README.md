@@ -10,17 +10,23 @@
 <p align="center">
   <img src="assets/neon-purple-divider-cropped.png" width="100%" alt="Neon Purple Divider" />
 </p>
-## ✨ About Me
 
-- 🎓 CS & IT Student
-- 💻 Interested in Software Development
-- 🤖 Exploring Artificial Intelligence
-- 🌐 Learning Web Development
-- 🚀 Building projects and learning by doing
-- 🌱 Always curious about new technologies
 
-**My philosophy:** Learn. Build. Experiment. Repeat.
----
+## whoami 👾
+
+Not just here to write code — here to discover what code can do.
+
+I'm Angel, a CS & IT student who loves the intersection of technology, creativity, and problem-solving. I enjoy experimenting with ideas, designing things that feel right, and figuring out the logic behind the pixels.
+
+```python
+class Angel:
+    interests = ["Tech", "Design", "AI", "Problem Solving"]
+    currently_building = "My next little experiment"
+    mindset = "Stay curious. Keep creating."
+```
+
+When I'm not coding, I'm probably exploring a new tool, collecting ideas, or wondering how someone built something so cool.
+
 
 ## 🛠️ Tech Stack & Tools
 
