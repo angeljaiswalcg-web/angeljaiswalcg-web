@@ -59,6 +59,49 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 </tr>
 </table>
 
+<h2 align="center">✦ GITHUB ANALYTICS ✦</h2>
+<p align="center"><i>My journey through code and creativity</i></p>
+
+<!-- 01. GITHUB OVERVIEW -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=angeljaiswalcg-web&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=080510&title_color=C084FC&text_color=EDE5FF&icon_color=8FFFE0&border_color=8044B5&border_radius=15"
+    width="100%"
+    alt="GitHub Overview"
+  />
+</p>
+
+<!-- 02. MOST USED LANGUAGES -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=donut&langs_count=6&bg_color=080510&title_color=C084FC&text_color=EDE5FF&border_color=8044B5&border_radius=15"
+    width="100%"
+    alt="Most Used Languages"
+  />
+</p>
+
+<!-- 03. CONTRIBUTION STREAK -->
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=angeljaiswalcg-web&background=080510&border=8044B5&stroke=A855F7&ring=C084FC&fire=8FFFE0&currStreakNum=EDE5FF&sideNums=EDE5FF&currStreakLabel=C084FC&sideLabels=C084FC&dates=BBA8D6&border_radius=15"
+    width="100%"
+    alt="Contribution Streak"
+  />
+</p>
+
+<!-- 04. CONTRIBUTION ACTIVITY -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=angeljaiswalcg-web&bg_color=080510&color=EDE5FF&title_color=C084FC&line=A855F7&point=8FFFE0&area=true&area_color=542477&border_color=8044B5&radius=15&height=250"
+    width="100%"
+    alt="Contribution Activity"
+  />
+</p>
+
+<p align="center">
+  <i>✧ Building something better with every commit ✧</i>
+</p>
+
 
 <!-- ═══════════ COSMIC GITHUB STATS ═══════════ -->
 
