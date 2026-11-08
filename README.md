@@ -35,20 +35,6 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 </p>
 
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=angeljaiswalcg-web&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0718&title_color=C4B5FD&icon_color=5EEAD4&text_color=E9D5FF"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0718&title_color=C4B5FD&text_color=E9D5FF"
-    height="165"
-  />
-</p>
----
-
 <!-- GITHUB ANALYTICS -->
 
 <div align="center">
@@ -59,19 +45,26 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 
 <br><br>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=angeljaiswalcg-web&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  height="180"
-  alt="GitHub Stats"
-/>
+<!-- GitHub Stats Card -->
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=compact&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=angeljaiswalcg-web&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0718&title_color=C4B5FD&icon_color=5EEAD4&text_color=E9D5FF&rank_icon=github"
   height="180"
-  alt="Most Used Languages"
+  alt="Angel's GitHub Statistics"
+/>
+
+<!-- Top Languages Card -->
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0718&title_color=C4B5FD&text_color=E9D5FF"
+  height="180"
+  alt="Angel's Most Used Languages"
 />
 
 </div>
+
+---
+
 
 
 ## 🔥 Contribution Streak
