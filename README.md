@@ -10,10 +10,10 @@
   <img
     src="./assets/cosmic-wave.svg"
     width="100%"
-    alt="Purple wave divider"
+    height="45"
+    alt="Cosmic Wave Divider"
   />
 </p>
-
 ## ✨ About Me
 
 - 🎓 CS & IT Student
