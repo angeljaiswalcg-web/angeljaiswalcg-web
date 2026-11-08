@@ -35,26 +35,31 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 </p>
 
 
-<!-- ═══════════════ PURPLE NEON GITHUB DASHBOARD ═══════════════ -->
 
-<!-- 01. GITHUB STATS + MOST USED LANGUAGES -->
+<!-- ═════════════ PURPLE NEON GITHUB DASHBOARD ═════════════ -->
+
+<!-- 01 | STATS + MOST USED LANGUAGES -->
 
 <div align="center">
-  <table width="100%" border="1" bordercolor="#A855F7" cellpadding="8" cellspacing="0">
+  <table width="100%">
     <tr>
       <td width="60%" align="center">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=angeljaiswalcg-web&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&icon_color=C084FC&border_radius=15"
-          width="100%"
-          alt="GitHub Statistics"
-        />
+        <a href="https://github.com/angeljaiswalcg-web">
+          <img
+            src="https://github-stats-extended.vercel.app/api?username=angeljaiswalcg-web&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&icon_color=C084FC&border_radius=15"
+            width="100%"
+            alt="GitHub Statistics"
+          />
+        </a>
       </td>
       <td width="40%" align="center">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=compact&langs_count=6&card_width=330&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&border_radius=15"
-          width="100%"
-          alt="Most Used Languages"
-        />
+        <a href="https://github.com/angeljaiswalcg-web">
+          <img
+            src="https://github-stats-extended.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=compact&langs_count=6&card_width=330&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&border_radius=15"
+            width="100%"
+            alt="Most Used Languages"
+          />
+        </a>
       </td>
     </tr>
   </table>
@@ -62,50 +67,34 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 
 <br/>
 
-<!-- 02. CONTRIBUTION STREAK -->
+<!-- 02 | CONTRIBUTION STREAK -->
 
 <div align="center">
-  <table width="100%" border="1" bordercolor="#A855F7" cellpadding="8" cellspacing="0">
-    <tr>
-      <td align="center">
-        <img
-          src="https://streak-stats.demolab.com?user=angeljaiswalcg-web&background=10091D&border=C084FC&stroke=A855F7&ring=C084FC&fire=E9D5FF&currStreakNum=FFFFFF&sideNums=D8B4FE&currStreakLabel=E9D5FF&sideLabels=C084FC&dates=A78BFA&hide_border=false&border_radius=15"
-          width="100%"
-          alt="GitHub Contribution Streak"
-        />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/angeljaiswalcg-web">
+    <img
+      src="https://streak-stats.demolab.com?user=angeljaiswalcg-web&background=10091D&border=C084FC&stroke=A855F7&ring=C084FC&fire=E9D5FF&currStreakNum=FFFFFF&sideNums=D8B4FE&currStreakLabel=E9D5FF&sideLabels=C084FC&dates=A78BFA&hide_border=false"
+      width="100%"
+      alt="GitHub Contribution Streak"
+    />
+  </a>
 </div>
 
 <br/>
 
-<!-- 03. CONTRIBUTION ACTIVITY GRAPH -->
+<!-- 03 | CONTRIBUTION ACTIVITY GRAPH -->
 
 <div align="center">
-  <table width="100%" border="1" bordercolor="#A855F7" cellpadding="8" cellspacing="0">
-    <tr>
-      <td align="center">
-        <img
-          src="https://github-readme-activity-graph.vercel.app/graph?username=angeljaiswalcg-web&bg_color=10091D&color=D8B4FE&line=A855F7&point=E9D5FF&area=true&hide_border=true&custom_title=Contribution%20Activity&radius=12"
-          width="100%"
-          alt="Contribution Activity Graph"
-        />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/angeljaiswalcg-web">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=angeljaiswalcg-web&bg_color=10091D&color=D8B4FE&title_color=E9D5FF&line=A855F7&point=E9D5FF&area_color=6D28D9&area=true&border_color=C084FC&hide_border=false&custom_title=Contribution%20Activity&radius=12&height=300&days=31"
+      width="100%"
+      alt="GitHub Contribution Activity"
+    />
+  </a>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-
-<!-- GITHUB ANALYTICS -->
-
-<div align="center">
-
-
-
----
 
 <!-- GITHUB ANALYTICS -->
 
