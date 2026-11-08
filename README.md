@@ -34,6 +34,32 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
 </p>
 
+<h2 align="center">✦ GITHUB ANALYTICS ✦</h2>
+<p align="center">
+  <i>Exploring my journey through code</i>
+</p>
+
+<table align="center">
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=angeljaiswalcg-web&show_icons=true&rank_icon=github&bg_color=080510&title_color=C084FC&text_color=EDE5FF&icon_color=8FFFE0&border_color=8044B5&border_radius=15" />
+</td>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=compact&langs_count=5&bg_color=080510&title_color=C084FC&text_color=EDE5FF&border_color=8044B5&border_radius=15" />
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<img width="100%" src="https://streak-stats.demolab.com/?user=angeljaiswalcg-web&background=080510&border=8044B5&stroke=A855F7&ring=C084FC&fire=8FFFE0&currStreakNum=EDE5FF&sideNums=EDE5FF&currStreakLabel=C084FC&sideLabels=C084FC&dates=BBA8D6&border_radius=15" />
+</td>
+<td width="50%">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=angeljaiswalcg-web&bg_color=080510&color=EDE5FF&title_color=C084FC&line=A855F7&point=8FFFE0&area=true&area_color=542477&border_color=8044B5&radius=12&height=180" />
+</td>
+</tr>
+</table>
+
+
 <!-- ═══════════ COSMIC GITHUB STATS ═══════════ -->
 
 <h2 align="center">✦ GITHUB ANALYTICS ✦</h2>
