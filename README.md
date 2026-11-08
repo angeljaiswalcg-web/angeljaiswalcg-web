@@ -8,7 +8,7 @@
 
 <!-- Neon Purple Divider -->
 <p align="center">
-  <img src="assets/neon-divider.png" width="100%" alt="Neon Purple Divider" />
+  <img src="assets/neon-purple-divider-cropped.png" width="100%" alt="Neon Purple Divider" />
 </p>
 ## ✨ About Me
 
