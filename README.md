@@ -8,11 +8,8 @@
 
 <p align="center">
   <img
-    src="./assets/wave-divider(2).svg"
+    src="./assets/wave-divider.svg"
     width="100%"
-    height="45"
-    alt="Cosmic Wave Divider"
-  />
 </p>
 ## ✨ About Me
 
