@@ -6,18 +6,11 @@
   />
 </p>
 
-
-## About Me
-
-Your introduction goes here.
-
-<!-- Animated divider -->
-
 <p align="center">
   <img
-    src="./assets/cosmic-wave-divider-transparent.gif"
+    src="./assets/cosmic-wave.svg"
     width="100%"
-    alt="Animated Cosmic Wave"
+    alt="Purple wave divider"
   />
 </p>
 
