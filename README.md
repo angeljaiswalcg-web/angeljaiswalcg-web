@@ -34,47 +34,6 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
 </p>
 
-<h2 align="center">✦ GITHUB ANALYTICS ✦</h2>
-<p align="center"><i>My journey through code and creativity</i></p>
-
-
-<p align="center">
-  <i>✧ Building something better with every commit ✧</i>
-</p>
-
-
-<!-- ═══════════ COSMIC GITHUB STATS ═══════════ -->
-
-<h2 align="center">✦ GITHUB ANALYTICS ✦</h2>
-
-<p align="center">
-  <i>A glimpse into my development journey</i>
-</p>
-
-<!-- 01. OVERVIEW + LANGUAGES -->
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=angeljaiswalcg-web&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=080510&title_color=C084FC&text_color=EDE5FF&icon_color=8FFFE0&border_color=542477"
-    alt="GitHub Overview"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=compact&langs_count=6&bg_color=080510&title_color=C084FC&text_color=EDE5FF&border_color=542477"
-    alt="Most Used Languages"
-  />
-</p>
-
-<!-- 02. CONTRIBUTION STREAK -->
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=angeljaiswalcg-web&background=080510&border=542477&stroke=A855F7&ring=C084FC&fire=8FFFE0&currStreakNum=EDE5FF&sideNums=EDE5FF&currStreakLabel=C084FC&sideLabels=C084FC&dates=9B8AAF"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
 <!-- 03. CONTRIBUTION ACTIVITY -->
 
 <p align="center">
@@ -88,20 +47,6 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 <!-- ═══════════════════════════════════════════ -->
 
 
-<!-- GITHUB ANALYTICS -->
-
-<div align="center">
-
-
-<!-- GITHUB ANALYTICS -->
-
-<div align="center">
-
-## 📊 `~/github-analytics`
-
-<i>A little look at my coding journey.</i>
-
-<br><br>
 
 <!-- GITHUB ANALYTICS -->
 
