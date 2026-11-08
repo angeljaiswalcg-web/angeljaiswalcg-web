@@ -35,20 +35,19 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 </p>
 
 
-<!-- =============== PURPLE NEON GITHUB DASHBOARD =============== -->
+<!-- 01 | GITHUB STATS + LANGUAGES -->
 
-<!-- 01. GITHUB STATS + MOST USED LANGUAGES -->
 <div align="center">
 <table width="100%" cellpadding="8" cellspacing="0">
 <tr>
-<td width="60%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 <a href="https://github.com/angeljaiswalcg-web">
-<img src="https://github-stats-extended.vercel.app/api?username=angeljaiswalcg-web&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&icon_color=C084FC&border_radius=15" width="100%" height="auto" alt="GitHub Statistics"/>
+<img src="https://github-stats-extended.vercel.app/api?username=angeljaiswalcg-web&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&icon_color=C084FC&border_radius=15" width="100%" alt="GitHub Stats"/>
 </a>
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 <a href="https://github.com/angeljaiswalcg-web">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=compact&langs_count=6&card_width=420&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&border_radius=15" width="100%" alt="Most Used Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=default&langs_count=6&card_width=450&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&border_radius=15" width="100%" alt="Most Used Languages"/>
 </a>
 </td>
 </tr>
@@ -56,16 +55,6 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 </div>
 
 <br/>
-
-<!-- 02. CONTRIBUTION STREAK - CENTERED 80% -->
-<div align="center">
-<a href="https://github.com/angeljaiswalcg-web">
-<img src="https://streak-stats.demolab.com?user=angeljaiswalcg-web&background=10091D&border=C084FC&stroke=A855F7&ring=C084FC&fire=E9D5FF&currStreakNum=FFFFFF&sideNums=D8B4FE&currStreakLabel=E9D5FF&sideLabels=C084FC&dates=A78BFA&hide_border=false" width="60%" alt="GitHub Contribution Streak"/>
-</a>
-</div>
-
-<br/>
-
 
 <!-- 03 | PURPLE NEON CONTRIBUTION ACTIVITY -->
 
