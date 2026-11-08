@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="./assets/cosmic-wave.svg"
+    src="./assets/wave-divider(2).svg"
     width="100%"
     height="45"
     alt="Cosmic Wave Divider"
