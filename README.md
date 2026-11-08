@@ -33,7 +33,7 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
 </p>
----
+
 
 ## 📊 GitHub Analytics
 
@@ -48,6 +48,31 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
   />
 </p>
 ---
+
+<!-- GITHUB ANALYTICS -->
+
+<div align="center">
+
+## 📊 `~/github-analytics`
+
+<i>A little look at my coding journey.</i>
+
+<br><br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=angeljaiswalcg-web&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  height="180"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="Most Used Languages"
+/>
+
+</div>
+
 
 ## 🔥 Contribution Streak
 
