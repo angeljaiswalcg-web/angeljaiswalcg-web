@@ -6,10 +6,9 @@
   />
 </p>
 
+<!-- Neon Purple Divider -->
 <p align="center">
-  <img
-    src="./assets/wave-divider.svg"
-    width="100%"
+  <img src="assets/neon-divider.png" width="100%" alt="Neon Purple Divider" />
 </p>
 ## ✨ About Me
 
