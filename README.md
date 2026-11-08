@@ -42,7 +42,7 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 <tr>
 <td width="50%" align="center" valign="middle">
 <a href="https://github.com/angeljaiswalcg-web">
-<img src="https://github-stats-extended.vercel.app/api?username=angeljaiswalcg-web&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&icon_color=C084FC&border_radius=15" width="100%" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=angeljaiswalcg-web&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&icon_color=C084FC&border_radius=15" width="100%" height="auto" alt="GitHub Stats"/>
 </a>
 </td>
 <td width="50%" align="center" valign="middle">
@@ -59,6 +59,21 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 </td>
 </tr>
 </table>
+</div>
+
+<br/>
+
+
+<!-- CONTRIBUTION STREAK - CENTERED 75% -->
+
+<div align="center">
+  <a href="https://github.com/angeljaiswalcg-web">
+    <img
+      src="https://streak-stats.demolab.com?user=angeljaiswalcg-web&background=10091D&border=C084FC&stroke=A855F7&ring=C084FC&fire=E9D5FF&currStreakNum=FFFFFF&sideNums=D8B4FE&currStreakLabel=E9D5FF&sideLabels=C084FC&dates=A78BFA&hide_border=false"
+      width="75%"
+      alt="GitHub Contribution Streak"
+    />
+  </a>
 </div>
 
 <br/>
