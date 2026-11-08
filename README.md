@@ -46,8 +46,15 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 </a>
 </td>
 <td width="50%" align="center" valign="middle">
+
 <a href="https://github.com/angeljaiswalcg-web">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=default&langs_count=6&card_width=450&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&border_radius=15" width="100%" alt="Most Used Languages"/>
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=normal&langs_count=6&card_width=450&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&border_radius=15"
+  width="100%"
+  alt="Most Used Languages"
+/>
+</a>
+
 </a>
 </td>
 </tr>
@@ -55,6 +62,7 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 </div>
 
 <br/>
+
 
 <!-- 03 | PURPLE NEON CONTRIBUTION ACTIVITY -->
 
