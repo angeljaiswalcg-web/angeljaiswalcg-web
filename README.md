@@ -39,7 +39,7 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 
 <!-- 01. GITHUB STATS + MOST USED LANGUAGES -->
 <div align="center">
-<table width="100%" cellpadding="0" cellspacing="0">
+<table width="100%" cellpadding="8" cellspacing="0">
 <tr>
 <td width="60%" align="center" valign="middle">
 <a href="https://github.com/angeljaiswalcg-web">
@@ -48,7 +48,7 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 </td>
 <td width="40%" align="center" valign="middle">
 <a href="https://github.com/angeljaiswalcg-web">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=compact&langs_count=6&card_width=330&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&border_radius=15" width="100%" alt="Most Used Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=compact&langs_count=6&card_width=420&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&border_radius=15" width="100%" alt="Most Used Languages"/>
 </a>
 </td>
 </tr>
