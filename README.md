@@ -141,8 +141,8 @@ alt="GitHub Contribution Streak"
 
 
 
+<h3 align="center">✨ Let's Connect With Me! ✨</h3>
 
-<h2 align="center">✨ Let's Connect With Me! ✨</h2>
 <div align="center">
   <img src="assets/purple-divider.png"
        width="85%"
