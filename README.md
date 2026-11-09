@@ -53,21 +53,22 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 
 <br>
 
+
 <!-- GITHUB STATS + MOST USED LANGUAGES -->
 
 <div align="center">
   <a href="https://github.com/angeljaiswalcg-web">
     <img
-      src="https://github-stats-extended.vercel.app/api?username=angeljaiswalcg-web&show_icons=true&include_all_commits=true&rank_icon=github&line_height=38&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&icon_color=C084FC&border_radius=15"
+      align="top"
+      src="https://github-stats-extended.vercel.app/api?username=angeljaiswalcg-web&show_icons=true&include_all_commits=true&rank_icon=github&line_height=32&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&icon_color=C084FC&border_radius=15"
       width="49%"
-      height="300"
       alt="GitHub Stats"
     />
   </a><a href="https://github.com/angeljaiswalcg-web">
     <img
+      align="top"
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=normal&langs_count=4&card_width=450&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&border_radius=15"
       width="49%"
-      height="300"
       alt="Most Used Languages"
     />
   </a>
