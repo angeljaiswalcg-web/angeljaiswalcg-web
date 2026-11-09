@@ -16,7 +16,7 @@
 <div align="center">
   <img src="assets/purple-divider.png"
        width="85%"
-       height="10"
+       height="12"
        alt="Purple neon divider"/>
 </div>
 Not just here to write code — here to discover what code can do.
@@ -34,12 +34,12 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 <div align="center">
   <img src="assets/purple-divider.png"
        width="85%"
-       height="10"
+       height="12"
        alt="Purple neon divider"/>
 </div>
 
 <h3>  🛠️ Tech Stack & Tools</h3>
- 🛠️ Tech Stack & Tools
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
@@ -50,6 +50,8 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
        height="10"
        alt="Purple neon divider"/>
 </div>
+
+<br>
 
 <!-- GITHUB STATS + MOST USED LANGUAGES -->
 
@@ -88,7 +90,7 @@ alt="Most Used Languages"
 </div>
 
 <!-- CONTRIBUTION STREAK - CENTERED 60% -->
-
+<br>
 <div align="center">
 <a href="https://github.com/angeljaiswalcg-web">
 <img
@@ -107,7 +109,7 @@ alt="GitHub Contribution Streak"
        height="10"
        alt="Purple neon divider"/>
 </div>
-
+<br>
 <!-- 03 | PURPLE NEON CONTRIBUTION ACTIVITY -->
 
 <div align="center">
@@ -115,10 +117,6 @@ alt="GitHub Contribution Streak"
 <img src="https://github-activity-graph.luckylinux.dev/graph?username=angeljaiswalcg-web&bg_color=10091D&color=D8B4FE&title_color=E9D5FF&line=A855F7&point=E9D5FF&area_color=6D28D9&area=true&border_color=C084FC&custom_title=Contribution%20Activity&radius=12&height=280&days=31&grid=true" width="100%" alt="Angel's GitHub Contribution Activity"/>
 </a>
 </div>
-
-<br/>
-
-
 <br/>
 
 <div align="center">
