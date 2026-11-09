@@ -42,7 +42,7 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 <tr>
 <td width="50%" align="center" valign="middle">
 <a href="https://github.com/angeljaiswalcg-web">
-<img src="https://github-stats-extended.vercel.app/api?username=angeljaiswalcg-web&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&icon_color=C084FC&border_radius=15" width="100%" height="auto" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=angeljaiswalcg-web&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&icon_color=C084FC&border_radius=15" width="100%"  alt="GitHub Stats"/>
 </a>
 </td>
 <td width="50%" align="center" valign="middle">
