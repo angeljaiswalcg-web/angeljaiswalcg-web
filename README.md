@@ -47,7 +47,7 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
 <div align="center">
   <img src="assets/purple-divider.png"
        width="85%"
-       height="10"
+       height="12"
        alt="Purple neon divider"/>
 </div>
 
@@ -85,7 +85,7 @@ alt="Most Used Languages"
 <div align="center">
   <img src="assets/purple-divider.png"
        width="85%"
-       height="10"
+       height="12"
        alt="Purple neon divider"/>
 </div>
 
@@ -106,7 +106,7 @@ alt="GitHub Contribution Streak"
 <div align="center">
   <img src="assets/purple-divider.png"
        width="85%"
-       height="10"
+       height="12"
        alt="Purple neon divider"/>
 </div>
 <br>
@@ -122,7 +122,7 @@ alt="GitHub Contribution Streak"
 <div align="center">
   <img src="assets/purple-divider.png"
        width="85%"
-       height="10"
+       height="12"
        alt="Purple neon divider"/>
 </div>
 <!-- PURPLE GITHUB CONTRIBUTION SNAKE -->
@@ -140,7 +140,7 @@ alt="GitHub Contribution Streak"
 <div align="center">
   <img src="assets/purple-divider.png"
        width="85%"
-       height="10"
+       height="12"
        alt="Purple neon divider"/>
 </div>
 <!-- ================= END DASHBOARD ================= -->
