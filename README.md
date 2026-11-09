@@ -12,12 +12,13 @@
 </p>
 
 
-## whoami 👾
-
+<h3>whoami 👾</h3>
 <div align="center">
-  <img src="assets/purple-divider.png" width="85%" alt="Purple divider"/>
+  <img src="assets/purple-divider.png"
+       width="85%"
+       height="8"
+       alt="Purple neon divider"/>
 </div>
-<br/>
 Not just here to write code — here to discover what code can do.
 
 I'm Angel, a CS & IT student who loves the intersection of technology, creativity, and problem-solving. I enjoy experimenting with ideas, designing things that feel right, and figuring out the logic behind the pixels.
