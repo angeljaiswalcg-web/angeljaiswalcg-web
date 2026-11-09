@@ -153,10 +153,6 @@ alt="GitHub Contribution Streak"
 </p>
 
 
-<p align="center">
-  💌 Feel free to reach out, connect and collaborate!
-</p>
-
 
 <div align="center">
   <img src="assets/purple-divider.png"
