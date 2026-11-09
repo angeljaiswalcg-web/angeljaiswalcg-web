@@ -142,17 +142,13 @@ alt="GitHub Contribution Streak"
 <h3>🌐 Let's Connect</h3>
 
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=googlechrome" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+
+## 🌐 Connect with me
+
+- 📧 Email: [angel.jaiswal.cg@gmail.com](mailto:angel.jaiswal.cg@gmail.com)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/angel-jaiswal-02b516428/)
+- 📸 Instagram: [@whosangelwz](https://www.instagram.com/whosangelwz/)
+
 
 <div align="center">
   <img src="assets/purple-divider.png"
