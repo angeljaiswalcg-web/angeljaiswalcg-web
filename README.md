@@ -16,7 +16,7 @@
 <div align="center">
   <img src="assets/purple-divider.png"
        width="85%"
-       height="8"
+       height="10"
        alt="Purple neon divider"/>
 </div>
 Not just here to write code — here to discover what code can do.
