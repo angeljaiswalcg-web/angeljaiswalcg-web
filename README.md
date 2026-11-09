@@ -67,7 +67,7 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
   </a><a href="https://github.com/angeljaiswalcg-web">
     <img
       align="top"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=normal&langs_count=4&card_width=450&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&border_radius=15"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=angeljaiswalcg-web&layout=normal&langs_count=4&card_width=450&line_height=32&hide_border=false&border_color=C084FC&bg_color=10091D&title_color=E9D5FF&text_color=D8B4FE&border_radius=15"
       width="49%"
       alt="Most Used Languages"
     />
