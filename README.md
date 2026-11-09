@@ -92,6 +92,19 @@ alt="GitHub Contribution Streak"
 
 <br/>
 
+<!-- PURPLE GITHUB CONTRIBUTION SNAKE -->
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/angeljaiswalcg-web/angeljaiswalcg-web/output/github-snake.svg"
+    width="100%"
+    alt="Purple GitHub Contribution Snake Animation"
+  />
+</div>
+
+<br/>
+
+
 <!-- ================= END DASHBOARD ================= -->
 
 
