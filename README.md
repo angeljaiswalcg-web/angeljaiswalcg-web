@@ -31,13 +31,24 @@ class Angel:
 ```
 
 When I'm not coding, I'm probably exploring a new tool, collecting ideas, or wondering how someone built something so cool.
-
+<div align="center">
+  <img src="assets/purple-divider.png"
+       width="85%"
+       height="10"
+       alt="Purple neon divider"/>
+</div>
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
 </p>
+<div align="center">
+  <img src="assets/purple-divider.png"
+       width="85%"
+       height="10"
+       alt="Purple neon divider"/>
+</div>
 
 <!-- GITHUB STATS + MOST USED LANGUAGES -->
 
@@ -68,6 +79,12 @@ alt="Most Used Languages"
 
 <br/>
 
+<div align="center">
+  <img src="assets/purple-divider.png"
+       width="85%"
+       height="10"
+       alt="Purple neon divider"/>
+</div>
 
 <!-- CONTRIBUTION STREAK - CENTERED 60% -->
 
@@ -83,6 +100,12 @@ alt="GitHub Contribution Streak"
 
 <br/>
 
+<div align="center">
+  <img src="assets/purple-divider.png"
+       width="85%"
+       height="10"
+       alt="Purple neon divider"/>
+</div>
 
 <!-- 03 | PURPLE NEON CONTRIBUTION ACTIVITY -->
 
@@ -97,6 +120,12 @@ alt="GitHub Contribution Streak"
 
 <br/>
 
+<div align="center">
+  <img src="assets/purple-divider.png"
+       width="85%"
+       height="10"
+       alt="Purple neon divider"/>
+</div>
 <!-- PURPLE GITHUB CONTRIBUTION SNAKE -->
 
 <div align="center">
@@ -109,7 +138,12 @@ alt="GitHub Contribution Streak"
 
 <br/>
 
-
+<div align="center">
+  <img src="assets/purple-divider.png"
+       width="85%"
+       height="10"
+       alt="Purple neon divider"/>
+</div>
 <!-- ================= END DASHBOARD ================= -->
 
 
@@ -127,6 +161,12 @@ alt="GitHub Contribution Streak"
   </a>
 </p>
 
+<div align="center">
+  <img src="assets/purple-divider.png"
+       width="85%"
+       height="10"
+       alt="Purple neon divider"/>
+</div>
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
