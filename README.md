@@ -38,7 +38,8 @@ When I'm not coding, I'm probably exploring a new tool, collecting ideas, or won
        alt="Purple neon divider"/>
 </div>
 
-## 🛠️ Tech Stack & Tools
+<h3>  🛠️ Tech Stack & Tools</h3>
+ 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
@@ -146,8 +147,8 @@ alt="GitHub Contribution Streak"
 </div>
 <!-- ================= END DASHBOARD ================= -->
 
+<h3>🌐 Let's Connect</h3>
 
-## 🌐 Let's Connect
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">
