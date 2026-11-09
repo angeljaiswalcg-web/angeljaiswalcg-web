@@ -141,21 +141,17 @@ alt="GitHub Contribution Streak"
 
 <h3>🌐 Let's Connect</h3>
 
-<p align="center">
-  
-<a href="mailto:angel.jaiswal.cg@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-</a>
 
-  &nbsp;
-  <a href="https://www.linkedin.com/in/angel-jaiswal-02b516428/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/whosangelwz/">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+<h2 align="center">✨ Let's Connect With Me! ✨</h2>
+
+<p align="center">
+  <a href="mailto:angel.jaiswal.cg@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;<a href="https://www.linkedin.com/in/angel-jaiswal-02b516428/"><img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://www.instagram.com/whosangelwz/"><img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
+
+<p align="center">
+  💌 Feel free to reach out, connect and collaborate!
+</p>
+
 
 <p align="center">
   💌 Feel free to reach out, connect and collaborate!
