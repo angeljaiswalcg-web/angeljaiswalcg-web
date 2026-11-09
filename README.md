@@ -141,8 +141,6 @@ alt="GitHub Contribution Streak"
 
 <h3>🌐 Let's Connect</h3>
 
-<h2 align="center">✨ Let's Connect With Me! ✨</h2>
-
 <p align="center">
   <a href="mailto:angel.jaiswal.cg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
