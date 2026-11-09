@@ -139,11 +139,16 @@ alt="GitHub Contribution Streak"
 </div>
 <!-- ================= END DASHBOARD ================= -->
 
-<h3>🌐 Let's Connect</h3>
+
 
 
 <h2 align="center">✨ Let's Connect With Me! ✨</h2>
-
+<div align="center">
+  <img src="assets/purple-divider.png"
+       width="85%"
+       height="12"
+       alt="Purple neon divider"/>
+</div>
 <p align="center">
   <a href="mailto:angel.jaiswal.cg@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;<a href="https://www.linkedin.com/in/angel-jaiswal-02b516428/"><img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://www.instagram.com/whosangelwz/"><img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
